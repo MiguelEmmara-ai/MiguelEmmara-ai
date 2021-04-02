@@ -4,7 +4,7 @@ Welcome To My Github!
 
 - 🔭 I’m currently Studying Computer Science
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: miguelemmara.me | m.miguelemmara@gmail.com
+- 📫 How to reach me: <a href="https://www.miguelemmara.me/">miguelemmara.me</a> | m.miguelemmara@gmail.com
 - ⚡ Fun fact: "I Can Write Hello World In 10 Different languages"
 
 <!--
