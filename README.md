@@ -2,7 +2,7 @@
 
 Welcome To My Github!
 <br>
-I am Miguel Emmara 😃. I am from Jakarta, Indonesia and currently living in Auckland, New Zealand. currently doing my Software Development Major @ Auckland University of Technology, Auckland 🏫
+I am Miguel Emmara 😃. I am from Jakarta, Indonesia living in Auckland, New Zealand. currently doing my Software Development Major @ Auckland University of Technology, Auckland 🏫
 
 ## ⚡ Technologies
 Talk to me about:
@@ -14,7 +14,7 @@ Talk to me about:
 - Creating scalable cloud architecture using: **AWS Cloud**.
 
 ## 📫 How to reach me
-<a href="https://miguelemmara.me/#contact">miguelemmara.me</a> | m.miguelemmara@gmail.com
+<a href="https://miguelemmara.me/#contact">miguelemmara.me</a> | miguel@miguelemmara.me
 
 <!--
 **MiguelEmmara-ai/MiguelEmmara-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
