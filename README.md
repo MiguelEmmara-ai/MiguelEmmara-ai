@@ -2,16 +2,19 @@
 
 Welcome To My Github!
 <br>
-I am Miguel Emmara 😃. I am from Jakarta, Indonesia living in Auckland, New Zealand. currently doing my Software Development Major @ Auckland University of Technology, Auckland 🏫
+I am Miguel Emmara 😃, originally from Jakarta, Indonesia, and currently living in Auckland, New Zealand. I am in my penultimate year of studying Software Development at Auckland University of Technology 🏫.
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-End development using: **HTML, Javascript, CSS, Bootstrap, Tailwind, React, Vue 3**.
-- Back-End development using: **Laravel, Node JS**.
-- Full-Stack development using: **Laravel + Inertia JS (React / Vue3), Mern Stack, Mevn Stack**.
-- Mobile application development using: **Flutter** (still learning).
+- Front-End development using: **HTML, CSS, JavaScript, Typescript, React JS, Next JS, Bootstrap, Material UI**
+- Back-End development using: **Node JS, Express JS, Nest JS, Laravel, RESTful API**
+- Database:
+  - SQL: **MySQL, MariaDB, PostgreSQL**
+  - NoSQL: **MongoDB**
+- Programming: **C, C#, Java, Python, PHP, JavaScript, Typescript**
 - Server setup using: **Linux, Nginx, Mysql, PHP**
-- Creating scalable cloud architecture using: **AWS Cloud**.
+- Cloud Services: **AWS, GCP, Azure, DevOps deployment, CI/CD, Docker, Git & GitHub, Cloud Servers / Hosting**
+- Non-Technical: **Agile, Scrum, Project Planning, GitHub, Jira, Trello, Office Apps**
 
 ## 📫 How to reach me
 <a href="https://miguelemmara.me/#contact">miguelemmara.me</a> | miguel@miguelemmara.me
