@@ -6,7 +6,7 @@ I am Miguel Emmara 😃, originally from Jakarta, Indonesia, and currently livin
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-End development using: **HTML, CSS, JavaScript, Typescript, React JS, Next JS, Bootstrap, Material UI**
+- Front-End development using: **HTML, CSS, JavaScript, Typescript, React JS, Next JS, Bootstrap, Tailwind CSS**
 - Back-End development using: **Node JS, Express JS, Nest JS, Laravel, RESTful API**
 - Database:
   - SQL: **MySQL, MariaDB, PostgreSQL**
@@ -14,7 +14,7 @@ Talk to me about:
 - Programming: **C, C#, Java, Python, PHP, JavaScript, Typescript**
 - Server setup using: **Linux, Nginx, Mysql, PHP**
 - Cloud Services: **AWS, GCP, Azure, DevOps deployment, CI/CD, Docker, Git & GitHub, Cloud Servers / Hosting**
-- Non-Technical: **Agile, Scrum, Project Planning, GitHub, Jira, Trello, Office Apps**
+- Additionals: **Agile, Scrum, Project Planning, GitHub, Jira, Trello, Office Apps**
 
 ## 📫 How to reach me
 <a href="https://miguelemmara.me/#contact">miguelemmara.me</a> | miguel@miguelemmara.me
