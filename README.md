@@ -10,15 +10,13 @@ Full Stack Developer - B.CompSc (Software Development) Graduate from Auckland Un
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-End development using: **HTML, CSS, JavaScript / Typescript, React JS, Next JS, Tailwind CSS**
-- Back-End development using: **Express JS, Nest JS, Laravel, RESTful API**
-- Database:
-  - SQL: **MySQL, PostgreSQL**
-  - NoSQL: **MongoDB**
-- Programming: **C#, Java, JavaScript / Typescript, Python, PHP**
-- Servers: **Linux, Nginx, Mysql, PHP**
-- Cloud Services: **AWS, DevOps, CI/CD, Docker, Git & GitHub, Cloud Servers / Hosting**
-- Additionals: **Agile, Scrum, Project Planning, GitHub, Jira, Trello, Office Apps**
+- Front-End development using: **HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Next.js.**
+- Back-End development using: **Node.js, Express.js, Laravel, RESTful APIs Design.**
+- Database: **MySQL, PostgreSQL, MongoDB.**
+- Programming: **JavaScript, TypeScript, Java, C#, PHP, Python.**
+- Cloud & DevOps: **AWS (Lambda, S3, EC2), CI/CD, Cloud Servers / VPS, Hosting, CDN.**
+- Tools: **Docker, Git & GitHub, Mac, Windows, Linux.**
+- Methodologies: **Agile, Scrum, Jira, Trello, Office Apps.**
 
 ## 📫 How to reach me
 <a href="https://miguelemmara.me/#contact" target="_blank">miguelemmara.me</a> | miguel@miguelemmara.me
